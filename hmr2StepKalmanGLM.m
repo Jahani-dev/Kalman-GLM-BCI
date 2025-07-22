@@ -4,7 +4,6 @@ function [ddK1 ddKS1 Pfinal PfinalS] = hmrKalmanGLMAutoINI_2step(d, s, t, SD, th
 % UI NAME: 
 % hmrKalmanGLMAutoINI_2step
 % Kalman_GLM_AutoINI_2step  created 05-2020 by S. Jahani  
-% Kalman_GLM
 % This script estimates the HRF in two steps using Kalman filter and GLM with Automatic
 % intialization for measurement noise
 %
